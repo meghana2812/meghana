@@ -1,5 +1,4 @@
-sr=input()
-ssr=input()
+sr,ssr=map(str,(input().split())
 if ssr in sr:
     print("yes")
 else:
