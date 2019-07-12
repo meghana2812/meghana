@@ -1,3 +1,3 @@
-abc=list(map(str,input().split()))
-def=abc[::-1]
-print(*def)
+P=list(map(str,input().split()))
+R=P[::-1]
+print(*R)
