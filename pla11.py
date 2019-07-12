@@ -1,5 +1,5 @@
 m=input()
-if(m=="saturday" or m=="sunday"):
-    print("yes")
+if(m=="Saturday" or m=="Sunday"):
+    print("Yes")
 else:
     print("No")
